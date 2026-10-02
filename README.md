@@ -2,12 +2,12 @@
 
 Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning, interested in web development, modern user interfaces, and emerging technologies.
 
-This repository contains my personal portfolio website, built with HTML5, CSS3, and JavaScript. It showcases my skills, projects, education, and development journey.
+This repository contains the source code for my portfolio website, built with HTML5, CSS3, and JavaScript. My complete, current e-portfolio is on Google Sites.
 
 ## Explore
 
-- **E-Portfolio:** [View my complete portfolio](https://sites.google.com/view/roushanbaigportfolio)
-- **Live portfolio website:** [roushan0052.github.io/portfolio](https://roushan0052.github.io/portfolio/)
+- **Live E-Portfolio:** [View my complete portfolio](https://sites.google.com/view/roushanbaigportfolio)
+- **Source code:** [This portfolio repository](https://github.com/Roushan0052/portfolio)
 - **GitHub profile:** [github.com/Roushan0052](https://github.com/Roushan0052)
 - **LinkedIn:** [Sowdagar Roushan Ali Baig](https://www.linkedin.com/in/sowdagar-roushan-ali-baig/)
 
